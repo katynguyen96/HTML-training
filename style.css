@@ -1,0 +1,38 @@
+body{
+	background-color: rgb(200,200,200);
+	font-family: Georgia;
+	font-size: 12px;
+}
+h1{
+	text-align: center;
+	color: DarkCyan;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-indent: 20px;
+}
+
+h1:first-letter{
+	font-size: 200%;
+}
+
+h3:first-line{
+	font-size: 200%;
+}
+
+h1:hover {
+	color: deeppink;
+	text-decoration: underline;
+}
+
+h2{
+	letter-spacing: 0.4em;
+	color: #ee3e80;
+	text-decoration: underline;
+	text-shadow: 1px 1px 3px #666666;
+}
+
+h3{
+	word-spacing: 1rem;
+	color: rgb(100,100,90);
+	line-height: 1.4rem;
+}
