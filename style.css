@@ -36,3 +36,33 @@ h3{
 	color: rgb(100,100,90);
 	line-height: 1.4rem;
 }
+
+
+a:link{
+	color: deeppink;
+	text-decoration: none;
+}
+
+a:visited{
+	color: blue;
+}
+
+a:hover {
+color: deeppink;
+text-decoration: underline;}
+a:active {
+color: darkcyan;}
+
+div {
+height: 200px;
+width: 200px;
+background-color: #bbbbaa;}
+p {
+height: 75%;
+width: 75%;
+}
+
+p.one {
+overflow: hidden;}
+p.two {
+overflow: scroll;}
